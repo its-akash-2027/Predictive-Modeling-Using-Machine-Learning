@@ -67,28 +67,6 @@ N --> O([End])
 
 ---
 
-## 🚀 Installation
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-
----
-
-## ▶️ Run the Project
-
-```bash
-python predictive_model.py
-```
-
-or open the Jupyter Notebook:
-
-```
-Predictive_Modeling.ipynb
-```
-
----
-
 ## 📈 Model Evaluation
 
 The model is evaluated using:
