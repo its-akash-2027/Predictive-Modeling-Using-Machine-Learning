@@ -96,7 +96,6 @@ Predictive-Modeling-Using-Machine-Learning/
 │
 ├── Predictive_Modeling.ipynb
 ├── README.md
-├── requirements.txt
 └── images/
 ```
 
