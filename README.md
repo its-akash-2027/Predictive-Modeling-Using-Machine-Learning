@@ -95,7 +95,6 @@ O --> P([End])
 Predictive-Modeling-Using-Machine-Learning/
 │
 ├── Predictive_Modeling.ipynb
-├── predictive_model.py
 ├── README.md
 ├── requirements.txt
 └── images/
@@ -135,19 +134,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 Python
 
-```bash
-python predictive_model.py
-```
-
-or
-
 Open
 
 ```
 Predictive_Modeling.ipynb
 ```
-
-using **Jupyter Notebook** or **Google Colab**.
 
 ---
 
