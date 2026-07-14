@@ -50,20 +50,20 @@ A Machine Learning project that predicts whether a breast tumor is **Benign** or
 ```mermaid
 flowchart TD
 
-A([Start]) --> B[Import Libraries]
-B --> C[Load Breast Cancer Dataset]
-C --> D[Explore Dataset]
-D --> E[Check Missing Values]
-E --> F[Train-Test Split]
-F --> G[Train Random Forest Model]
-G --> H[Make Predictions]
-H --> I[Calculate Accuracy]
-I --> J[Classification Report]
-J --> K[Confusion Matrix]
-K --> L[ROC Curve]
-L --> M[Feature Importance]
-M --> N[Predict New Sample]
-N --> O([End])
+```mermaid
+flowchart LR
+
+A[Breast Cancer Dataset]
+--> B[Data Exploration]
+--> C[Preprocessing]
+--> D[Train/Test Split]
+--> E[Random Forest Classifier]
+--> F[Prediction]
+--> G[Performance Evaluation]
+--> H[Accuracy • Confusion Matrix • ROC Curve]
+--> I[Feature Importance]
+--> J[Final Prediction]
+```
 
 
 ## 📈 Model Evaluation
